@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Banka_Otomasyon.Form1">
+    <Position X="0.5" Y="0.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAACEBgBAIEACAAQQCAAgAAAAAABQAECBAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Banka_Otomasyon.aksuBank">
+    <Position X="3.5" Y="0.75" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>/z9hrjouBKwwkRmH8qKd2yACFnsQ4EBMFCKfgyh4PH4=</HashCode>
+      <FileName>Form2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Banka_Otomasyon.BireyselMusteri">
+    <Position X="6.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BireyselMusteri.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Banka_Otomasyon.Banka">
+    <Position X="6.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAEAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Banka.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Banka_Otomasyon.Hesap">
+    <Position X="6.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgBAAABAACgAAAEAAoAQAAEAAQgAAAAAAAAEQEABA=</HashCode>
+      <FileName>Hesap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Banka_Otomasyon.IslemBilgisi">
+    <Position X="8" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABABAAAAAAAAQAEAAAAABIAAAEAQAAAAAAAAA=</HashCode>
+      <FileName>IslemBilgisi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Banka_Otomasyon.KimlikBilgisi">
+    <Position X="9.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAABAAAAEAAAAAACAAAACAAAAI=</HashCode>
+      <FileName>KimlikBilgisi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Banka_Otomasyon.Musteri" Collapsed="true">
+    <Position X="6.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAEAAACAAABAAAAAIAAAAAAAIAAAAAgAAIAAAAAAA=</HashCode>
+      <FileName>Musteri.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Banka_Otomasyon.Program">
+    <Position X="8" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
